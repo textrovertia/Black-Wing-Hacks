@@ -8,12 +8,17 @@
 
 body{
     background-color: #F2F2F2;
-    color:#041D26 !important;
+    color:#072040 !important;
 }
 
 .dropdown-menu{
     max-width:  50px;
+    color: #041D26 im !important;
   }
+
+#active{
+    color:#05AFF2 i !important;
+}
 
 /* Body */
 main{
@@ -79,3 +84,8 @@ h2{
     color:#041D26;
 }
 
+
+footer{
+    background-color: #05AFF2;
+    color:#F2F2F2;
+}
