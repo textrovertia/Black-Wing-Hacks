@@ -11,6 +11,9 @@ body{
     color:#041D26 !important;
 }
 
+.dropdown-menu{
+    max-width:  50px;
+  }
 
 /* Body */
 main{
