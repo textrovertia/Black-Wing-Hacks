@@ -1,0 +1,28 @@
+
+*{
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif !important;
+    
+}
+
+
+
+/*Body*/
+@media screen and (max-width: 574px) {
+    .partner{
+        width: 360px;
+        margin: 0 auto 15px;
+    }
+
+    .myfooter{
+        width:50%;
+    }
+
+
+  }
+
+
+
+
+
+
