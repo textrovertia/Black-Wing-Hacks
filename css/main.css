@@ -1,0 +1,32 @@
+*{
+    box-sizing:border-box;
+    margin:0px; 
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* Menu  */
+
+/* Menu floated to right*/
+
+#right-menu{
+    float: right;
+}
+
+/* Body */
+.leftheading{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.rightheading{
+    
+}
+
+.rightheading img{
+
+    
+}
+
