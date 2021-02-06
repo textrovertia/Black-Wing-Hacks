@@ -81,23 +81,6 @@ function clicked5(){
 
 
 
-//Darkmode 
-
-
-webmode=localStorage.getItem("webmode");
-console.log(webmode);
-
-document.addEventListener('DOMContentLoaded', () => {
-  console.log("Hi!")
-
- var themeStylesheet = document.getElementById('theme');
- console.log(themeStylesheet)
-  if (webmode==="lightmode"){
-    themeStylesheet.href='css/faqlight.css';
-  }else{
-    themeStylesheet.href='css/faqdark.css';
-  }
-})
 
 
 //Search functionality:

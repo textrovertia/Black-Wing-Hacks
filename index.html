@@ -3,55 +3,65 @@
     <head>
         <title>Ghana Tech Direct</title>
         <meta charset="UTF-8">
+        <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
         <link rel="stylesheet" href="./css/main.css">
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-       
+        <script>
+          swal({
+            title: "Good job!",
+            text: "You clicked the button!",
+            icon: "success",
+               });
+
+          
+
+        </script>
     </head>
     <body>
             <!-- Nav bar -->
-          <header>
+            <header>
                
 
-            <nav class="navbar navbar-expand-sm bg-light"> 
-
-              <nav class="navbar mynav">
-                <span class="navbar-brand mb-0 h1" style='color:#05AFF2'>Ghana Tech Direct</span>
-              </nav>
-              <div class="collapse navbar-collapse" id="navbarSupportedContent"></div>
-                <ul class="navbar-nav ml-auto" style='color:#041D26'> 
-                    <li class="nav-item active"> 
-                        <a class="nav-link" style='color:#041D26' href="#"> 
-                          About 
-                        </a> 
-                    </li> 
-                    <li class="nav-item"> 
-                        <a class="nav-link" style='color:#041D26' href="#"> 
-                          Contacts 
-                        </a> 
-                    </li> 
-                    <li class="nav-item"> 
-                        <a class="nav-link"  style='color:#041D26' href="#"> 
-                          Settings 
-                        </a> 
-                    </li> 
-                    <li class="nav-item"> 
-                      <a class="nav-link"  style='color:#041D26' href="faq.html"> 
-                        FAQ 
-                      </a> 
-                  </li> 
-                </ul> 
+              <nav class="navbar navbar-expand-sm"> 
+  
+                <nav class="navbar mynav">
+                  <span class="navbar-brand mb-0 h1" style='color:#05AFF2'>Ghana Tech Direct</span>
                 </nav>
-            </nav> 
-
-
-                  
-                  
-                  
-                 
-            </header>
-
+                <div class="collapse navbar-collapse" id="navbarSupportedContent"></div>
+                  <ul class="navbar-nav ml-auto" style='color:#041D26'> 
+                      <li class="nav-item active"> 
+                          <a class="nav-link" style='color:#041D26' href="index.html"> 
+                            About 
+                          </a> 
+                      </li> 
+                      <li class="nav-item"> 
+                          <a class="nav-link" style='color:#041D26' href="#"> 
+                            Contacts 
+                          </a> 
+                      </li> 
+                      <li class="nav-item"> 
+                          <a class="nav-link"  style='color:#041D26' href="#"> 
+                            Settings 
+                          </a> 
+                      </li> 
+                      <li class="nav-item"> 
+                        <a class="nav-link"  style='color:#041D26' href="faq.html"> 
+                          FAQ 
+                        </a> 
+                    </li> 
+                  </ul> 
+                  </nav>
+              </nav> 
+  
+  
+                    
+                    
+                    
+                   
+              </header>
+  
             <main>
             <div class="container-fluid">
                 <div class="heading row justify-content-center">
@@ -78,6 +88,7 @@
                     <h2>
                         About Us
                     </h2>
+                    <br>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur facere voluptate quaerat cupiditate 
                         exercitationem, fuga molestiae quasi ipsam nam modi. 
                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur enim quis fuga deleniti consequuntur quam dolore itaque amet explicabo voluptatum porro, magni eaque assumenda quisquam distinctio a culpa et nisi?
@@ -87,51 +98,125 @@
                 </div>
 
                 <h2>Tracks</h2>
+                <br>
                 <div class="tracks row">                  
                 
     
-                        <div class="track col-md-4">
-                            <div class="card" style="width: 18rem;">
-                                <img class="card-img-top" src="./img/fullstack.jpg" alt="Card image cap">
-                                <div class="card-body">
-                                  <h5 class="card-title">Full Stack Developers</h5>
-                                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                  <a href="#" class="btn btn-primary">Go somewhere</a>
-                                </div>
-                              </div>
+                  <div class="track col-lg-4">
+                    <div class="card w-75" style="width: 18rem;">
+                        <img class="card-img-top" src="./img/fullstack.jpg" alt="Card image cap">
+                        <div class="card-body">
+                          <h5 class="card-title">Full Stack Developers</h5>
+                          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                          <a class="btn" data-toggle="modal" data-target="#fullstack">Go somewhere</a>
                         </div>
+                      </div>
+                </div>
 
-                        <div class="track col-md-4">
-                          <div class="card" style="width: 18rem;">
+
+                        <div class="track col-lg-4">
+                          <div class="card w-75" style="width: 18rem;">
                               <img class="card-img-top" src="./img/fullstack.jpg" alt="Card image cap">
                               <div class="card-body">
                                 <h5 class="card-title">UI/UX Design</h5>
                                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                <a class="btn" data-toggle="modal" data-target="#uiux">Go somewhere</a>
                               </div>
                             </div>
                       </div>
 
 
-                      <div class="track col-md-4">
-                        <div class="card" style="width: 18rem;">
+                      <div class="track col-lg-4">
+                        <div class="card w-75" style="width: 18rem;">
                             <img class="card-img-top" src="./img/fullstack.jpg" alt="Card image cap">
                             <div class="card-body">
                               <h5 class="card-title">Data Science</h5>
                               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                              <a href="#" class="btn btn-primary">Go somewhere</a>
+                              <a class="btn" data-toggle="modal" data-target="#datascience">Go somewhere</a>
                             </div>
                           </div>
                     </div>
 
+                    <!-- Full Stack Modal -->
+                    <div class="modal fade" id="fullstack" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                      <div class="modal-dialog modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                          <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalLongTitle">Full Stack Development</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                              <span aria-hidden="true">&times;</span>
+                            </button>
+                          </div>
+                          <div class="modal-body">
+                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Libero eligendi earum velit consequuntur recusandae dolorum sint amet? Ad earum quam, accusamus delectus maiores rerum repudiandae labore molestiae molestias blanditiis mollitia? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur blanditiis mollitia aliquid impedit odio praesentium in culpa esse harum consequuntur.
+                          </div>
+                          <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            <button type="button" class="btn ">Save changes</button>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+
+                    <!-- ui/ux modal -->
+                    <div class="modal fade" id="uiux" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                      <div class="modal-dialog modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                          <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalLongTitle">UI/UX</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                              <span aria-hidden="true">&times;</span>
+                            </button>
+                          </div>
+                          <div class="modal-body">
+                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Libero eligendi earum velit consequuntur recusandae dolorum sint amet? Ad earum quam, accusamus delectus maiores rerum repudiandae labore molestiae molestias blanditiis mollitia? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur blanditiis mollitia aliquid impedit odio praesentium in culpa esse harum consequuntur.
+                          </div>
+                          <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            <button type="button" class="btn btn-primary">Save changes</button>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+
+                    <!-- Data Science modal -->
+                    <div class="modal fade" id="datascience" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                      <div class="modal-dialog modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                          <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalLongTitle">Data Science</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                              <span aria-hidden="true">&times;</span>
+                            </button>
+                          </div>
+                          <div class="modal-body">
+                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Libero eligendi earum velit consequuntur recusandae dolorum sint amet? Ad earum quam, accusamus delectus maiores rerum repudiandae labore molestiae molestias blanditiis mollitia? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur blanditiis mollitia aliquid impedit odio praesentium in culpa esse harum consequuntur.
+                          </div>
+                          <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            <button type="button" class="btn btn-primary">Save changes</button>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+
+
 
 
                         </div>
+
+                      
                     
-                        </div>
-                </div>
+                  </div>
 
-            </div>
+                  <footer>
+
+                    
+                  </footer>
+                
 
              
 
