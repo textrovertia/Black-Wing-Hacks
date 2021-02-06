@@ -1,0 +1,21 @@
+*{
+    box-sizing:border-box;
+    margin:0px;   
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+body{
+    background-color: #F2F2F2;
+}
+
+.headimage{
+    height: 80vh;
+    width: 100%;
+    background-image: url(../img/coder.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+    margin-bottom: 40px;
+}
+
