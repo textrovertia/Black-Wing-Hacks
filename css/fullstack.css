@@ -46,4 +46,9 @@ h1{
 
 .card{
     margin-bottom: 20px;
+    box-shadow: 0 0  .25em rgba(0, 0, 0, 0.25); 
+}
+
+.card:hover{
+    box-shadow: 0 0 .25em .25em rgba(0, 0, 0, 0.25); 
 }
