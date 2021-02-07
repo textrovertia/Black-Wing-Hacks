@@ -30,7 +30,7 @@ function loopthroughlist(myvar, content){
 
 $(document).ready(function(){
   //Sweet alert: What is your level of expertise
-    swal("What is your level of expertise in fullstack development", {
+    swal("What is your level of expertise in uiux design", {
         buttons: {
           beginner: {text: "Beginner",
                      value: "beginner"},
@@ -49,7 +49,7 @@ $(document).ready(function(){
         switch (value) {
        
           case "advanced":
-            $.getJSON('/json/fullstack.json', function(data){
+            $.getJSON('/json/uiux.json', function(data){
                   console.log(data[2].track)
                   
                 const paid=data[2].paidcourses
@@ -70,7 +70,7 @@ $(document).ready(function(){
             
        
           case "immediate":
-            $.getJSON('/json/fullstack.json', function(data){
+            $.getJSON('/json/uiux.json', function(data){
                 console.log(data[1].track)
                 console.log(data[1].track)
 
@@ -90,7 +90,7 @@ $(document).ready(function(){
             break;
         
           case "beginner":
-            $.getJSON('/json/fullstack.json', function(data){
+            $.getJSON('/json/uiux.json', function(data){
                 console.log(data[0].track)
 
                const paid=data[0].paidcourses
