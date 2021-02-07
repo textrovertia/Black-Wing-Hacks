@@ -1,0 +1,44 @@
+FULL STACK DEVELOPER 
+Articles:
+1. 6steps to become a full stack developer 
+http://techgenix.com/full-stack-developer/amp/#
+2. How long does it take to become a full stack developer 
+https://bootcamp.berkeley.edu/blog/how-long-to-become-full-stack-developer/
+3. How to become a full stack developer: skills required
+https://www.google.com/amp/s/www.simplilearn.com/skills-required-to-become-a-full-stack-developer-article/amp
+
+Top 17+ Best Online Full Stack Developer Courses & Certifications
+https://skillscouter.com/full-stack-developer-courses-certifications/
+
+Courses - free 
+Full Stack Website Development : Technologies All in One
+https://www.udemy.com/course/full-stack-website-development-technologies/
+
+there are some sites that you can learn the various parts of full stack development in bits. ie html courses, css courses, etc 
+
+sololearn.com
+w3schools.com
+
+Courses - paid 
+Full stack development courses - Coursera
+https://www.coursera.org/courses?query=full%20stack%20web%20development&page=1
+
+Beginner Full Stack Web Development: HTML, CSS, React & Node - Udemy
+https://www.udemy.com/course/ultimate-web/?LSNPUBID=vedj0cWlu2Y&ranEAID=vedj0cWlu2Y&ranMID=39197&ranSiteID=vedj0cWlu2Y-n3r4WmDfRDh9LmZRUHAb3w&utm_medium=udemyads&utm_source=aff-campaign
+
+Professional Certificate in Coding: Full Stack Development with MERN
+https://executive-ed.xpro.mit.edu/professional-certificate-coding?utm_source=DigDefynd&utm_medium=Affiliate&utm_campaign=B-365D_WW_AF_DigDefynd_PCC_ALWON&utm_content=Listing
+
+
+Boot camps:
+The complete 2020 web development bootcamp - Udemy (Paid)
+https://www.udemy.com/course/the-complete-web-development-bootcamp/?ranMID=39197&ranEAID=vedj0cWlu2Y&ranSiteID=vedj0cWlu2Y-4bMw0ihvq_yhrCNch5aA_A&utm_source=aff-campaign&LSNPUBID=vedj0cWlu2Y&utm_medium=udemyads
+
+The Web Developer bootcamp 2021 - Udemy (Paid)
+https://www.udemy.com/course/the-web-developer-bootcamp/?LSNPUBID=vedj0cWlu2Y&ranEAID=vedj0cWlu2Y&ranMID=39197&ranSiteID=vedj0cWlu2Y-_I1OWrk5aQXuVvh3QauqWg&utm_medium=udemyads&utm_source=aff-campaign
+
+The advanced web developer Bootcamp
+https://www.udemy.com/course/the-advanced-web-developer-bootcamp/?ranMID=39197&ranEAID=vedj0cWlu2Y&ranSiteID=vedj0cWlu2Y-npQalEpt0qq1jamFCQKRpg&LSNPUBID=vedj0cWlu2Y&utm_source=aff-campaign&utm_medium=udemyads
+
+Python and Django Full stack web developer bootcamp 
+https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Python_v.PROF_la.EN_cc.ROW_ti.7380&utm_content=deal4584&utm_term=_._ag_85724077624_._ad_437497333662_._kw__._de_m_._dm__._pl__._ti_dsa-774930046209_._li_9067654_._pd__._&matchtype=b&gclid=Cj0KCQiAvP6ABhCjARIsAH37rbQXgmNJEvSfUwYFGSx_ohV9SLwGM1Mh7wXSbaBOMGT8CoPbFVRPGJUaAqPfEALw_wcB
