@@ -1,21 +1,29 @@
 [{
     "track": "Beginner", 
-    "about": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore distinctio minus est ipsa consectetur alias, impedit harum architecto, autem repudiandae hic enim itaque officia quas dolorum similique iusto, numquam quae.",
+    "about": " Here is a collection of handpicked UI/UX design resources for you",
     "freecourses": [
-        ["Plural Sight", "https://cutt.ly/dkv5WUn", "https://www.pluralsight.com/content/pluralsight/en/newsroom/brand-assets/jcr:content/main/generic_block/parsys/columns_108996112/column-parsys-1/flex_block/parsys/flex_card_copy/image-res.img.49cf491b-2f0c-4a29-bcb1-e1de255187db.jpg"]
+        ["Degreeless Design", "https://bit.ly/39UC1gL", "https://www.pluralsight.com/content/pluralsight/en/newsroom/brand-assets/jcr:content/main/generic_block/parsys/columns_108996112/column-parsys-1/flex_block/parsys/flex_card_copy/image-res.img.49cf491b-2f0c-4a29-bcb1-e1de255187db.jpg"],
+        ["Design principles", "https://bit.ly/3pZKXqK", "noimageyet"],
+        ["UX/UI Vault by Kickass UX", "https://bit.ly/2MLwv7r", "noimageyet"],
+        ["Free Crash Course in Design by Kickass UX", "https://bit.ly/3tIikkv", "noimageyet.jpg"],
+        []
     ],
     "paidcourses": [
-        ["Udemy", "https://cutt.ly/Ekv3ILV", "https://miro.medium.com/max/1050/1*UfosUyZgOE97ntxNVuBFEg.png"],
-        ["Coursera", "https://sdasdasdds", "https://miro.medium.com/max/1050/1*UfosUyZgOE97ntxNVuBFEg.png"]
+        ["Udemy: UX Design College Class", "https://bit.ly/3pZ13Bc", "https://bit.ly/36QPZyu"],
+        ["Coursera: UI/UX Design Specialisation", "https://bit.ly/2Oew5Hg", "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/41/f404907a3011e8b427dbe925a8251e/specialization_logo_02d.jpg?auto=format%2Ccompress&dpr=3&w=150&h=150&fit=fill&bg=FFF"]
        ],
-    "articles": []
+    "articles": [
+        ["How to start in UX: The Ultimate Guide", "https://bit.ly/3rtxCax", "noimageyet.jpg"],
+        ["Questions to ask yourself before enrolling in a UX Design bootcamp", "https://bit.ly/3oVUYnF", "https://miro.medium.com/max/2500/1*5NKHQDjC1cUC441HTejxuQ.png"]
+    ]
 },
 
 {
     "track": "Intermediate", 
     "about" : " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore distinctio minus est ipsa consectetur alias, impedit harum architecto, autem repudiandae hic enim itaque officia quas dolorum similique iusto, numquam quae.",
     "freecourses":[
-        ["John Academy", "https://www.johnacademy.co.uk/course/web-development-intermediate-level/", "https://www.cybersecuritytrainingcourses.com/images/211/320xAUTO/john-academy.jpg"]
+        ["John Academy", "https://www.johnacademy.co.uk/course/web-development-intermediate-level/", "https://www.cybersecuritytrainingcourses.com/images/211/320xAUTO/john-academy.jpg"],
+        ["Udemy: Free UI/UX Essentials with Sketch", "https://bit.ly/3rzeOGT", "https://img-b.udemycdn.com/course/480x270/3313458_7ccb.jpg?secure=2iKYpA6qvjNb71UFm6PVAg%3D%3D%2C1612770306"]
     ],
     "paidcourses": [
         ["Udemy", "https://cutt.ly/Ekv3ILV", "https://miro.medium.com/max/1050/1*UfosUyZgOE97ntxNVuBFEg.png"],
