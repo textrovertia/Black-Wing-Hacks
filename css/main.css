@@ -75,17 +75,17 @@ h2{
 }
 
 .btn{
-    background-color: #1F47BF;
-    color: white;
+    background-color: #05AFF2;
+    color: white !important;
 }
 
 .btn:hover{
-    background-color:#05AFF2;
+    background-color:#072040;
     color:#041D26;
 }
 
 
 footer{
-    background-color: #05AFF2;
+    background-color: #072040;
     color:#F2F2F2;
 }

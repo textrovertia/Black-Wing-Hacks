@@ -8,13 +8,15 @@
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+        <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+        <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+        <script src="./js/fullstack.js"></script>
         <script>
-          swal({
-            title: "Good job!",
-            text: "You clicked the button!",
-            icon: "success",
-               });
-
+          $(document).ready(function(){
+            console.log('hi')
+          })
+        </script>
+       
           
 
         </script>
@@ -38,9 +40,9 @@
                       </li> 
            
                       <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Dropdown</a>
+                        <a class="nav-link dropdown-toggle" style='color:#05AFF2' data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Courses</a>
                         <div class="dropdown-menu">
-                          <a class="dropdown-item active" href="fullstack.html">Full Stack</a>
+                          <a class="dropdown-item active" style='color:#05AFF2' href="fullstack.html">Full Stack</a>
                           <a class="dropdown-item" href="uiux.html">UI/UX</a>
                           <a class="dropdown-item" href="datascience.html">Data Science</a>
                       
@@ -71,6 +73,7 @@
               </header>
   
         <main>
+          
                    
             <div class="container-fluid">
                 <div class="headimage">
@@ -82,13 +85,28 @@
                 </div>
 
                 <div class="tracks">
-                    <h2>Full Stack</h2>
-                </div>
+                    <h1>Full Stack</h1>
+                    <div class="coursecontent">
+                      <h2 class="level"></h2>
+                      <!-- Free Courses -->
+                      <div class="freecourse">
+                          <h2 class="free">Free Courses</h2>
+                          <div class="freecontent"></div>
+                      </div>
+
+                      <!-- Paid Courses  -->
+                     <div class="paid">
+                       <h2>Paid Courses</h2>
+                       <div id='paid'></div>
+                     </div>
+                   </div>
             </div>
 
 
         </main>
-        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        
+        <script src="./js/jquery-3.5.1.js"></script>
+        
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     </body>

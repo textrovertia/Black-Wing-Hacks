@@ -1,0 +1,22 @@
+[{
+    "track": "Beginner", 
+    "about": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore distinctio minus est ipsa consectetur alias, impedit harum architecto, autem repudiandae hic enim itaque officia quas dolorum similique iusto, numquam quae.",
+    "freecourses": [],
+    "paidcourses": [
+        ["Udemy", "https://cutt.ly/Ekv3ILV"],
+        ["Coursera", "https://sdasdasdds"]
+       ],
+    "articles": []
+},
+
+{
+    "track": "Intermediate", 
+    "about" : " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore distinctio minus est ipsa consectetur alias, impedit harum architecto, autem repudiandae hic enim itaque officia quas dolorum similique iusto, numquam quae.",
+    "links": []
+},
+
+{
+    "track": "Advanced", 
+    "about": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore distinctio minus est ipsa consectetur alias, impedit harum architecto, autem repudiandae hic enim itaque officia quas dolorum similique iusto, numquam quae.",
+    "links": []
+}]

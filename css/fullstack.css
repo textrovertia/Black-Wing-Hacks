@@ -15,7 +15,6 @@ body{
     width: 100%;
     background-image: url(../img/coder.jpg);
 	background-size: cover;
-	background-attachment: fixed;
     margin-bottom: 40px;
 }
 
