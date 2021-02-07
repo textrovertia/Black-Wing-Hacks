@@ -1,0 +1,38 @@
+[{
+    "track": "Beginner", 
+    "about": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore distinctio minus est ipsa consectetur alias, impedit harum architecto, autem repudiandae hic enim itaque officia quas dolorum similique iusto, numquam quae.",
+    "freecourses": [
+        ["Plural Sight", "https://cutt.ly/dkv5WUn", "https://www.pluralsight.com/content/pluralsight/en/newsroom/brand-assets/jcr:content/main/generic_block/parsys/columns_108996112/column-parsys-1/flex_block/parsys/flex_card_copy/image-res.img.49cf491b-2f0c-4a29-bcb1-e1de255187db.jpg"]
+    ],
+    "paidcourses": [
+        ["Udemy", "https://cutt.ly/Ekv3ILV", "https://miro.medium.com/max/1050/1*UfosUyZgOE97ntxNVuBFEg.png"],
+        ["Coursera", "https://sdasdasdds", "https://miro.medium.com/max/1050/1*UfosUyZgOE97ntxNVuBFEg.png"]
+       ],
+    "articles": []
+},
+
+{
+    "track": "Intermediate", 
+    "about" : " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore distinctio minus est ipsa consectetur alias, impedit harum architecto, autem repudiandae hic enim itaque officia quas dolorum similique iusto, numquam quae.",
+    "freecourses":[
+        ["John Academy", "https://www.johnacademy.co.uk/course/web-development-intermediate-level/", "https://www.cybersecuritytrainingcourses.com/images/211/320xAUTO/john-academy.jpg"]
+    ],
+    "paidcourses": [
+        ["Udemy", "https://cutt.ly/Ekv3ILV", "https://miro.medium.com/max/1050/1*UfosUyZgOE97ntxNVuBFEg.png"],
+        ["Coursera", "https://sdasdasdds", "https://play-lh.googleusercontent.com/qq5__wITsoCx2kUK8TqVW2-8UDRuxET9kCzPzAPHad8umXiHRF2N0tZKuLezd0tiBQg=s360-rw"]
+       ],
+    "articles": []
+},
+
+{
+    "track": "Advanced", 
+    "about": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore distinctio minus est ipsa consectetur alias, impedit harum architecto, autem repudiandae hic enim itaque officia quas dolorum similique iusto, numquam quae.",
+    "freecourses":[
+        ["John Academy", "https://www.johnacademy.co.uk/course/web-development-intermediate-level/", "https://3kyfma1tr3gd273qz5237tyv-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/JOHN-ACADEMY-logo-Final-.png"]
+    ],
+    "paidcourses": [
+        ["Udemy", "https://cutt.ly/Ekv3ILV", "https://miro.medium.com/max/1050/1*UfosUyZgOE97ntxNVuBFEg.png"],
+        ["Coursera", "https://sdasdasdds", "https://miro.medium.com/max/1050/1*UfosUyZgOE97ntxNVuBFEg.png"]
+       ],
+    "articles": []
+}]
